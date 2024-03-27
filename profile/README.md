@@ -1,3 +1,4 @@
 # DecentrAI public repositories
 
 This repository contains the public repositories of DecentrAI including the whole stack of modules required for building and running a decentralized AI training and inference edge node.
+DecentrAI is an innovative protocol leveraging decentralized computing and AI through edge-node software, enabling on-edge inference and training. It incorporates trustless microtransactions within its ecosystem, fostering a secure, efficient, and scalable network for AI development and deployment, emphasizing the project's commitment to advancing technology while ensuring financial growth and sustainability.
