@@ -12,7 +12,7 @@ Our project ecosystem will create a utility blockchain network where AI processi
 
 # Cutting edge of AI & Blockchain
 
-Our **Naeural** initiative, delineated in the [foundational paper](https://arxiv.org/abs/2306.08708), champions the democratization of AI via a **Decentralized Neuro-symbolic Autonomous processing framework**, or Naeural DNA in short. This avant-garde framework integrates diverse data sources, propelling rapid deployment of business rules through user-friendly low-code and no-code interfaces. Anchored by an SDK/API, it leverages the immense capabilities of Large Language Models.
+Our **Naeural** initiative, delineated in the [foundational paper](https://arxiv.org/abs/2306.08708), champions the democratization of AI via a **Decentralized Neuro-symbolic Autonomous processing framework**, or Naeural DNA in short. This avant-garde framework integrates diverse data sources, propelling rapid deployment of business rules through user-friendly low-code and no-code interfaces. Anchored by its own SDK/API for fast application development, it leverages the immense capabilities of Large Language Models.
 
 Naeural stands at the forefront of economic and operational efficiency, integrating a **token-based system** for intelligent budgeting and scaling. The platform's compatibility with web3 and the Ethereum Virtual Machine (EVM) ensures fluid blockchain interactions. It employs IoT-based protocols like MQTT, strengthened by signature-based validation and blockchain's inherent immutability, ensuring secure, reliable operations within a trustless infrastructure.
 
