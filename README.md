@@ -1,2 +1,2 @@
 # .github
-Profile repo for DecentrAI
+Profile repo for Naeural
