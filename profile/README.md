@@ -30,7 +30,7 @@ There are five features of Naeural revolutionary architecture aspects that enabl
 4. **Pay-as-you-go** processing fees are automatically, trustless and transparently distributed based on blockchain ledger technology.
 5. **Legacy-based applications**, or outdated software systems, can be seamlessly integrated by forking base functionalities with complex business logic or **New applications** can use plugin-based execution pipelines with ready-to-use APIs and documentation.
 
-No matter what you are planning to build and no matter how experienced programmer you and your team are, Naeural will help you to get your AI (and not only AI) project  up and running in no time. Say you need a horizontally scalable web-API with multiple endpoints with no need of MQTT, AI or even blockchain integration: you can do this by low-code defining our enpoints and deploying via ngrok your fleet of heterogenous distributed microservices.
+Regardless of what you're aiming to build or how skilled your programming team is, Naeural is designed to accelerate your AI project's launch—and not just AI projects. For instance, if you require a horizontally scalable web-API with multiple endpoints, without needing MQTT, AI, or blockchain integration, you can easily set up our endpoints using low-code and deploy a fleet of heterogeneous distributed microservices via our `ngrok` integration.
 
 # Our team technical **creed**
 
@@ -71,4 +71,4 @@ Naeural is an innovative protocol leveraging decentralized computing and AI thro
   - [ ] June 2024: Token redeem in dApp available for Proof-of-Ownership and Proof-of-Availability 
   - [ ] July 2024: Naeural Edge Protocol Proof-of-AI Oracles functional
   - [ ] July 2024: Token reedm in dApp available for Proof-of-AI
-  
+
