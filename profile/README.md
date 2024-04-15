@@ -63,21 +63,38 @@ Naeural is an innovative protocol leveraging decentralized computing and AI thro
   - [x] Q2 2023: Naeural DNA Core and Naeural Edge Node used for 3rd party AI projects 
   - [x] Q4 2023: Naeural Edge Protocol taxonomy launched and functional including Supervisors nodes and Network monitoring
   - [x] Q1 2024: Protocol Epoch Management algorithms integrated into Naeural Edge Protocol Core 
-  - [ ] April 2024: Epoch Management Oracles functional both in edge nodes as well as in cloud
-  - [ ] April 2024: Naeural Edge Protocol dApp launched on testnet: token redeeming, Node Deed purchasing with tokens, oracle integration
+  - [ ] Apr 2024: Epoch Management Oracles functional both in edge nodes as well as in cloud
+  - [ ] Apr 2024: Naeural Edge Protocol dApp launched on testnet: token redeeming, Node Deed purchasing with tokens, oracle integration
   - [ ] May 2024: Naeural Edge Protocol token live on mainnet
   - [ ] May 2024: Naeural Edge Protocol dApp launched on mainnet
-  - [ ] June 2024: Naeural Edge Protocol MND (Master Node Deeds) partially distributed to team and seed investors
-  - [ ] June 2024: Token redeem in dApp available for Proof-of-Ownership and Proof-of-Availability 
-  - [ ] July 2024: Naeural Edge Protocol Proof-of-AI Oracles functional
-  - [ ] July 2024: Token reedm in dApp available for Proof-of-AI
+  - [ ] Jun 2024: Naeural Edge Protocol MND (Master Node Deeds) partially distributed to team and seed investors
+  - [ ] Jun 2024: Token redeem in dApp available for Proof-of-Ownership and Proof-of-Availability 
+  - [ ] Jul 2024: Naeural Edge Protocol Proof-of-AI Oracles functional
+  - [ ] Jul 2024: Token reedm in dApp available for Proof-of-AI
 
 
 # Commercial Roadmap
 
-  - [ ] April 2024: Onboarding of seed investor 
-  - [ ] May 2024: Multisig & initial DAO board established
+  - [ ] Apr 2024: Onboarding of seed investor 
+  - [ ] May 2024: Multisig wallet & initial DAO board established
   - [ ] May 2024: Naeural Protocol Foundation launched
-  - [ ] June 2024: Liquidity pool on Uniswap (Arbitrum mainnet)
-  - [ ] Q3 2024: Token listed on at least 1 major exchange
+  - [ ] Jun 2024: Liquidity pool on Uniswap (Arbitrum mainnet)
+  - [ ] Jun 2024: Marketing campaign and launch for the first Node Deed sale - Universal Node Deeds priced incrementally
+  - [ ] Jul 2024: First burn of tokens post Node Deed sale
+  - [ ] Aug 2024: Initial set of 3 template applications available for quick app go-to-market
+  - [ ] Sep 2024: 1st round of meetings with large potential partners
+  - [ ] Sep 2024: Naeural Edge Protocol 1st Hackathon
+  - [ ] Oct 2024: Naeural Edge Protocol Community Governance launched
+  - [ ] Nov 2024: Token listed on at least 1 major exchange
+  - [ ] Dec 2024: 2nd major hackathon
+  - [ ] Dec 2024: 3rd party applications available on Naeural Edge Protocol Marketplace including hackathon winners
+  - [ ] Q1 2025: At least 2 developer teams onboarded and deploying their applications on Naeural Edge Protocol
+  - [ ] Q1 2025: Launch of token on at least 2 additional exchanges
+  - [ ] Q2 2025: 
+  - [ ] Q3 2025: Internal team growth to 20 members and 20+ 3rd party Open Source contributors to Naeural Edge Protocol Core development
+  - [ ] Q4 2025: 
+  - [ ] Q1 2026:
+  - [ ] Q2 2026:
+  - [ ] Q3 2026:
+  - [ ] Q4 2026:
 
