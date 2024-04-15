@@ -51,7 +51,7 @@ This repository contains the public repositories of Naeural including the whole 
 Naeural is an innovative protocol leveraging decentralized computing and AI through edge-node software, enabling on-edge inference and training. It incorporates trustless microtransactions within its ecosystem, fostering a secure, efficient, and scalable network for AI development and deployment, emphasizing the project's commitment to advancing technology while ensuring financial growth and sustainability.
 
 
-# Roadmap
+# Technical Roadmap
 
   - [x] Q2 2021: Plugin-based execution pipelines and first version of the edge node Core modules
   - [x] Q3 2021: Private Blockchain libraries and SDK ready for testing
@@ -71,4 +71,13 @@ Naeural is an innovative protocol leveraging decentralized computing and AI thro
   - [ ] June 2024: Token redeem in dApp available for Proof-of-Ownership and Proof-of-Availability 
   - [ ] July 2024: Naeural Edge Protocol Proof-of-AI Oracles functional
   - [ ] July 2024: Token reedm in dApp available for Proof-of-AI
+
+
+# Commercial Roadmap
+
+  - [ ] April 2024: Onboarding of seed investor 
+  - [ ] May 2024: Multisig & initial DAO board established
+  - [ ] May 2024: Naeural Protocol Foundation launched
+  - [ ] June 2024: Liquidity pool on Uniswap (Arbitrum mainnet)
+  - [ ] Q3 2024: Token listed on at least 1 major exchange
 
