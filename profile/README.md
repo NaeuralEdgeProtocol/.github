@@ -30,7 +30,9 @@ There are five features of Naeural revolutionary architecture aspects that enabl
 4. **Pay-as-you-go** processing fees are automatically, trustless and transparently distributed based on blockchain ledger technology.
 5. **Legacy-based applications**, or outdated software systems, can be seamlessly integrated by forking base functionalities with complex business logic or **New applications** can use plugin-based execution pipelines with ready-to-use APIs and documentation.
 
-# **Our team technical creed**
+No matter what you are planning to build and no matter how experienced programmer you and your team are, Naeural will help you to get your AI (and not only AI) project  up and running in no time. Say you need a horizontally scalable web-API with multiple endpoints with no need of MQTT, AI or even blockchain integration: you can do this by low-code defining our enpoints and deploying via ngrok your fleet of heterogenous distributed microservices.
+
+# Our team technical **creed**
 
 1. Our product embodies value; features are simply the lens through which **customers** experience our innovation.
 2. The apps and their user interfaces are inviting portals into the much more expansive capabilities of Naeural.
@@ -47,3 +49,26 @@ Every **Naeural** module and repository is openly available under the Apache 2.0
 
 This repository contains the public repositories of Naeural including the whole stack of modules required for building and running a decentralized AI training and inference edge node.
 Naeural is an innovative protocol leveraging decentralized computing and AI through edge-node software, enabling on-edge inference and training. It incorporates trustless microtransactions within its ecosystem, fostering a secure, efficient, and scalable network for AI development and deployment, emphasizing the project's commitment to advancing technology while ensuring financial growth and sustainability.
+
+
+# Roadmap
+
+  - [x] Q2 2021: Plugin-based execution pipelines and first version of the edge node Core modules
+  - [x] Q3 2021: Private Blockchain libraries and SDK ready for testing
+  - [x] Q4 2021: Edge node initial tests both for AI (deep learning models) inference as well as training
+  - [x] Q1 2022: Additional use cases are added to the Naeural DNA
+  - [x] Q2 2022: Naeural DNA is fully operational and ready for various web2 projects
+  - [x] Q3 2022: Various research projects and collaboration within web2 space
+  - [x] Q1 2023: Core receives special Large Language Models support with various backends
+  - [x] Q2 2023: Naeural DNA Core and Naeural Edge Node used for 3rd party AI projects 
+  - [x] Q4 2023: Naeural Edge Protocol taxonomy launched and functional including Supervisors nodes and Network monitoring
+  - [x] Q1 2024: Protocol Epoch Management algorithms integrated into Naeural Edge Protocol Core 
+  - [ ] April 2024: Epoch Management Oracles functional both in edge nodes as well as in cloud
+  - [ ] April 2024: Naeural Edge Protocol dApp launched on testnet: token redeeming, Node Deed purchasing with tokens, oracle integration
+  - [ ] May 2024: Naeural Edge Protocol token live on mainnet
+  - [ ] May 2024: Naeural Edge Protocol dApp launched on mainnet
+  - [ ] June 2024: Naeural Edge Protocol MND (Master Node Deeds) partially distributed to team and seed investors
+  - [ ] June 2024: Token redeem in dApp available for Proof-of-Ownership and Proof-of-Availability 
+  - [ ] July 2024: Naeural Edge Protocol Proof-of-AI Oracles functional
+  - [ ] July 2024: Token reedm in dApp available for Proof-of-AI
+  
